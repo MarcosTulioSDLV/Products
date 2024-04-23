@@ -3,7 +3,7 @@
 
 I developed a Rest API to manage products, customers and their invoices in a store, built by using **Spring Boot and Java**, providing CRUD (Create, Read, Update, Delete) operations.
 This API allows to store product information, such as name, product number, price, country, product section etc. 
-Additionally, it supports the storage of customer information, including full name, address, phone number etc and finally it also supports the storage of invoice information (payment Method, payment Date and Purchase Total Price).
+Additionally, it supports the storage of customer information, including full name, address, phone number etc and finally it also supports the storage of invoice information (payment method, payment date and purchase total price).
 
 I used some libraries for this Rest API such **Spring Web, Spring Data JPA, Validation, H2 Database and SpringDoc OpenAPI Starter WebMVC UI 2.3.0 (for the API documentation)**.
 
