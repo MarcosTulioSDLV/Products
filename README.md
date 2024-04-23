@@ -5,7 +5,7 @@ I developed a Rest API to manage products, customers and their invoices in a sto
 This API allows to store product information, such as name, product number, price, country, product section etc. 
 Additionally, it supports the storage of customer information, including full name, address, city etc and finally it also supports the storage of invoice information (payment Method, payment Date and Purchase Total Price).
 
-I used some libraries for this Rest API such **Spring Web, Spring Data JPA, Validation, H2 Database and SpringDoc OpenAPI Starter WebMVC UI � 2.3.0 (for the API documentation)**.
+I used some libraries for this Rest API such **Spring Web, Spring Data JPA, Validation, H2 Database and SpringDoc OpenAPI Starter WebMVC UI 2.3.0 (for the API documentation)**.
 
 ## Database Config
 For test this API, an external Database is not necessary because an embedded Database (H2 Database) was used with the following configuration properties:
