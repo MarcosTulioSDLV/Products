@@ -10,9 +10,9 @@ I used some libraries for this Rest API such **Spring Web, Spring Data JPA, Vali
 ## Database Config
 For test this API, an external Database is not necessary because an embedded Database (H2 Database) was used with the following configuration properties:
 
-Name: products_db
-Username: sa
-Password:
+- Name: products_db
+- Username: sa
+- Password:
 
 ## Development Tools
 This Rest API was built with:
@@ -22,3 +22,4 @@ This Rest API was built with:
 
 ## System Class Diagram
 
+![ProductsClassDiagram](https://github.com/MarcosTulioSDLV/Products/assets/41268178/efd0c972-f031-418b-8763-7d9f209683cf)
